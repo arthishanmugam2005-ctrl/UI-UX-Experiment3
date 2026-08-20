@@ -4,7 +4,13 @@
  To evaluate and compare the UX of 2–3 competing apps using heuristic evaluation, improve the identified usability issues, and test the improvements using A/B testing.
 ## Algorithm:
 ```
-1.Select 2–3 competing apps such as Swiggy, Zomato, and Uber Eats. 2.Compare their UI, navigation, usability, and user experience. 3.Identify usability problems using heuristic principles. 4.Design improvements for the identified problems. 5.Compare the existing design (A) with the improved design (B). 6.Perform A/B testing and analyze user behaviour. 7.Document the findings and upload the project to GitHub.
+1.Select 2–3 competing apps such as Swiggy, Zomato, and Uber Eats.
+2.Compare their UI, navigation, usability, and user experience.
+3.Identify usability problems using heuristic principles.
+4.Design improvements for the identified problems.
+5.Compare the existing design (A) with the improved design (B).
+6.Perform A/B testing and analyze user behaviour.
+7.Document the findings and upload the project to GitHub.
 ```
 ## Output:
 
